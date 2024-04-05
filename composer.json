@@ -29,7 +29,7 @@
             "RushlowDevelopment\\Test\\": "tests/"
         }
     },
-    "bin":["bin/app"],
+    "bin":["bin/dev-apps"],
     "scripts": {
         "tools:panther:drivers": "vendor/bin/bdi detect drivers",
         "tools:upgrade": {
